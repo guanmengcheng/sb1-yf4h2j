@@ -1,0 +1,21 @@
+{
+  "title": "Business Paper Search",
+  "subtitle": "Search and explore top business journal papers",
+  "keywords": "Keywords (separated by commas)",
+  "journals": "Journals (separated by commas)",
+  "startYear": "Start Year",
+  "endYear": "End Year",
+  "search": "Search",
+  "openInGoogleScholar": "Open search results in Google Scholar",
+  "journalList": "Journal List",
+  "categories": {
+    "UTD24": "UTD24",
+    "FT50": "FT50",
+    "Accounting": "Accounting",
+    "Finance": "Finance",
+    "Information Systems": "Information Systems",
+    "Management": "Management",
+    "Marketing": "Marketing",
+    "Operations Management": "Operations Management"
+  }
+}

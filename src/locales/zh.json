@@ -1,0 +1,21 @@
+{
+  "title": "商科论文搜索",
+  "subtitle": "搜索和探索顶级商业期刊论文",
+  "keywords": "关键词（用逗号分隔）",
+  "journals": "期刊（用逗号分隔）",
+  "startYear": "开始年份",
+  "endYear": "结束年份",
+  "search": "搜索",
+  "openInGoogleScholar": "在谷歌学术中打开搜索结果",
+  "journalList": "期刊列表",
+  "categories": {
+    "UTD24": "UTD24",
+    "FT50": "FT50",
+    "Accounting": "会计",
+    "Finance": "金融",
+    "Information Systems": "信息系统",
+    "Management": "管理",
+    "Marketing": "市场营销",
+    "Operations Management": "运营管理"
+  }
+}
